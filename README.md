@@ -17,7 +17,7 @@
 - │▒▒▒│▒▒└"https://github.com/tingmingzih/"
 - │▒▒▒└"log"
 - │▒▒▒▒▒▒└"https://github.com/tingmingzih/"
-- └"general_section"
+- ├"general_section"
 - │▒▒▒├"github"
 - │▒▒▒│▒▒└"links"
 - │▒▒▒│▒▒▒▒└"https://github.com/tingmingzih/admin/"
