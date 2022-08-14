@@ -9,7 +9,7 @@
 - │▒▒▒└"font"
 - │▒▒▒▒▒▒├"default"
 - │▒▒▒▒▒▒├"blod"
-- |▒▒▒▒▒▒└"itatic"
+- │▒▒▒▒▒▒└"itatic"
 - ├"common_section"
 - │▒▒▒├"program files"
 - │▒▒▒│▒▒└"tingmingzih/admin/program_files"
