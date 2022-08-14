@@ -1,4 +1,1 @@
-- ![#f03c15](https://via.placeholder.com/15/ff0000/ff0000.png)
-- ![#c5f015](https://via.placeholder.com/15/000000/000000.png)
-- ![#1589F0](https://via.placeholder.com/15/ffffff/ffffff.png)
-
+- ![#you are now choosing color](https://via.placeholder.com/15/ffaaaa/ffaaaa.png) ![#you are now choosing color](https://via.placeholder.com/15/aaffaa/aaffaa.png) ![#you are now choosing color](https://via.placeholder.com/15/aaaaff/aaaaff.png)
