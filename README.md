@@ -1,2 +1,3 @@
 - "color_rgb":"![#you are now choosing color](https://via.placeholder.com/15/ffaaaa/ffaaaa.png)![#you are now choosing color](https://via.placeholder.com/15/aaffaa/aaffaa.png)![#you are now choosing color](https://via.placeholder.com/15/aaaaff/aaaaff.png)" 
 - "color_cmyk":"![#you are now choosing color](https://via.placeholder.com/15/aaaaaa/aaaaaa.png)![#you are now choosing color](https://via.placeholder.com/15/ffffaa/ffffaa.png)![#you are now choosing color](https://via.placeholder.com/15/ffaaff/ffaaff.png)![#you are now choosing color](https://via.placeholder.com/15/aaffff/aaffff.png)"
+- "color_selection":"color_rgb"
